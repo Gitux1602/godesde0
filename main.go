@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-	variables.MUESTROENTEROS()
+	variables.RestoVariables()
+	variables.ConviertoaTexto(100)
+
 }
